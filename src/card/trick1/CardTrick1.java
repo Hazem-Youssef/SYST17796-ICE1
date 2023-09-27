@@ -6,7 +6,7 @@ package card.trick1;
 
 /**
  *
- * @author hazem
+ * @author Hazem-Youssef
  */
 public class CardTrick1 {
 
